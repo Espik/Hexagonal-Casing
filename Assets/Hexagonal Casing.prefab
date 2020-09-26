@@ -35685,7 +35685,8 @@ MonoBehaviour:
   - {fileID: 4118243269967212}
   - {fileID: 4258048650806644}
   - {fileID: 4729565894980584}
-  TimerAnchors: []
+  TimerAnchors:
+  - {fileID: 4552313025816778}
   Backings:
   - {fileID: 114994744920647468}
   - {fileID: 114760823274178308}
